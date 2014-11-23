@@ -1,0 +1,19 @@
+{
+  "name": "mmfont-nwk",
+  "main": "index.html",
+  "window": {
+    "title": "Zg2Uni",
+    "toolbar": false,
+    "frame": false,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 800,
+    "max_height": 600
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
