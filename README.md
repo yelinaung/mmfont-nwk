@@ -4,4 +4,8 @@ Experimental font converter with [Node-Webkit](https://github.com/rogerwang/node
 
 ![Screenshot](https://raw.githubusercontent.com/yelinaung/mmfont-nwk/master/nwk-app.png)
 
+## TODO
+- Textarea to have Font embedded
+- Binary for Windows/Linux
+
 The converter is based on Ko Ngwe Tun [Parabaik Converter](https://github.com/ngwestar/parabaik).
