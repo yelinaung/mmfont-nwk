@@ -1,15 +1,12 @@
 {
-  "name": "mmfont-nwk",
+  "name": "Zg2Uni",
+  "description": "Zg to Uni Converter",
   "main": "index.html",
   "window": {
     "title": "Zg2Uni",
-    "toolbar": true,
-    "frame": false,
+    "toolbar": false,
     "position": "mouse",
     "width": 800,
     "height": 600
-  },
-  "webkit": {
-    "plugin": true
   }
 }
