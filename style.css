@@ -1,21 +1,23 @@
 @font-face {
     font-family: 'Zawgyi-One';
     src: url('fonts/zawgyi.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 }
 
 @font-face {
     font-family: 'PyiHtangSu';
     src: url('fonts/pyidaungsu.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 }
 
 .zg {
+    width: 350px; 
+    height: 500px;
     font-family:Zawgyi-One;
+    font-size:14px;
 }
 
 .uni {
+    width: 350px; 
+    height: 500px;
     font-family:PyiHtaungSu;
+    font-size:14px;
 }

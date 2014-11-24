@@ -6,7 +6,8 @@
     "toolbar": true,
     "frame": false,
     "position": "mouse",
-    "width": 1000
+    "width": 800,
+    "height": 600
   },
   "webkit": {
     "plugin": true
