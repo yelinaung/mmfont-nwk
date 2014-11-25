@@ -8,5 +8,9 @@
     "position": "mouse",
     "width": 800,
     "height": 600
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-node-webkit-builder": "^0.3.0"
   }
 }

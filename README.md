@@ -20,5 +20,5 @@ The converter is based on Ko Ngwe Tun [Parabaik Converter](https://github.com/ng
   5. Create new Pull Request
 
 
-## LICENSE
-GNU GENERAL PUBLIC LICENSE Version 2
+## License
+GNU GPL Version 2
