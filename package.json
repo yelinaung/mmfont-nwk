@@ -1,5 +1,6 @@
 {
   "name": "Zg2Uni",
+  "version": "0.1.0",
   "description": "Zg to Uni Converter",
   "main": "index.html",
   "window": {
